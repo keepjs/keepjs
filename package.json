@@ -1,11 +1,27 @@
 {
   "name": "keepjs",
-  "version": "0.0.1",
+  "version": "0.1.0",
+  "description": "An node.js framework.",
+  "main": "index.js",
   "dependencies": {
     "bluebird": "^3.5.0",
     "fs-extra": "^4.0.1",
     "lodash": "^4.17.4",
     "log4js": "^2.3.3",
     "mysql": "^2.14.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/keepjs/keepjs.git"
+  },
+  "keywords": [
+    "mysql",
+    "node",
+    "es6"
+  ],
+  "author": "asctalk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/keepjs/keepjs/issues"
   }
 }
