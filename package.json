@@ -1,5 +1,5 @@
 {
-  "name": "keepjs",
+  "name": "keepjsup",
   "version": "0.1.0",
   "description": "An node.js framework.",
   "main": "index.js",
