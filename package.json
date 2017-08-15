@@ -1,6 +1,6 @@
 {
   "name": "keepjs",
-  "version": "0.1.1",
+  "version": "0.70.1",
   "description": "An node.js framework.",
   "main": "index.js",
   "dependencies": {
